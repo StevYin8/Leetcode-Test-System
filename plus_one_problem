@@ -1,0 +1,7 @@
+Given a non-negative number represented as an array of digits,
+adding one to each numeral.
+
+The digits are stored big-endian, such that the most significant
+digit is at the head of the list.
+
+if you input [9,9], you will get [1,0,0]
